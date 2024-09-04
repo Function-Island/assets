@@ -1,0 +1,265 @@
+{
+  "name": "Pulsechain Tokens List",
+  "timestamp": "2024-01-01T00:00:01.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://functionisland.com/images/logo.png",
+  "keywords": [
+    "tokens",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "Dai Stablecoin from Ethereum",
+      "address": "0xefD766cCb38EaF1dfd701853BFCe31359239F305",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xefD766cCb38EaF1dfd701853BFCe31359239F305.png"
+    },
+    {
+      "name": "USDC from Ethereum",
+      "address": "0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x15D38573d2feeb82e7ad5187aB8c1D52810B1f07.png"
+    },
+    {
+      "name": "Tether USD from Ethereum",
+      "address": "0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x0Cb6F5a34ad42ec934882A05265A7d5F59b51A2f.png"
+    },
+    {
+      "name": "USDCoin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48.png"
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+    },
+    {
+      "name": "Wrapped BTC",
+      "address": "0xb17D901469B9208B17d916112988A3FeD19b5cA1",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xb17D901469B9208B17d916112988A3FeD19b5cA1.png"
+    },
+    {
+      "name": "Wrapped Pulse",
+      "address": "0xA1077a294dDE1B09bB078844df40758a5D0f9a27",
+      "symbol": "WPLS",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xA1077a294dDE1B09bB078844df40758a5D0f9a27.png"
+    },
+    {
+      "name": "Function Island",
+      "address": "0xDFB10795E6fE7D0Db68F9778Ba4C575a28E8Cd4c",
+      "symbol": "ISLAND",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xDFB10795E6fE7D0Db68F9778Ba4C575a28E8Cd4c.png"
+    },
+    {
+      "name": "Function Island FARM",
+      "address": "0xfd4d3A2fd12C7f3146428a2ebDCb489550Ae9bea",
+      "symbol": "FARM",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xfd4d3A2fd12C7f3146428a2ebDCb489550Ae9bea.png"
+    },
+    {
+      "name": "Function Island DAI",
+      "address": "0x32A12Bdbeb8280d38292e6491070Ebadf826EE50",
+      "symbol": "iDAI",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x32A12Bdbeb8280d38292e6491070Ebadf826EE50.png"
+    },
+    {
+      "name": "Function Island Bonds",
+      "address": "0x883bBad0cd22A7dD1881A63Cf00E3b8cb03E6836",
+      "symbol": "iBOND",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x883bBad0cd22A7dD1881A63Cf00E3b8cb03E6836.png"
+    },
+    {
+      "name": "Degen Protocol GOAT",
+      "address": "0xF5D0140B4d53c9476DC1488BC6d8597d7393f074",
+      "symbol": "GOAT",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xF5D0140B4d53c9476DC1488BC6d8597d7393f074.png"
+    },
+    {
+      "name": "Experiment 626",
+      "address": "0x25B4163f23e1F546fE509D7cE955E8411c1bD330",
+      "symbol": "E626",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x25B4163f23e1F546fE509D7cE955E8411c1bD330.png"
+    },
+    {
+      "name": "Drippy Inu",
+      "address": "0xD39Ad77ba6DbB8837F2AD75b2b66c6f3fEBfc20e",
+      "symbol": "DRPINU",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xD39Ad77ba6DbB8837F2AD75b2b66c6f3fEBfc20e.png"
+    },
+    {
+      "name": "Pulsechain DAI",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "pDAI",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x6B175474E89094C44Da98b954EedeAC495271d0F.png"
+    },
+    {
+      "name": "Coast",
+      "address": "0x600136dA8cc6D1Ea07449514604dc4ab7098dB82",
+      "symbol": "CST",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x600136dA8cc6D1Ea07449514604dc4ab7098dB82.png"
+    },
+    {
+      "name": "Future T.I.M.E. Dividend from Ethereum",
+      "address": "0xAE0303f244A3e9c74Ee8D373aF0bd637643dD371",
+      "symbol": "FUTURE",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xAE0303f244A3e9c74Ee8D373aF0bd637643dD371.png"
+    },
+    {
+      "name": "Hedron",
+      "address": "0x3819f64f282bf135d62168C1e513280dAF905e06",
+      "symbol": "HDRN",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x3819f64f282bf135d62168C1e513280dAF905e06.png"
+    },
+    {
+      "name": "HocusPocus",
+      "address": "0xd22E78C22D7E77229d60cc9fC57b0E294F54488E",
+      "symbol": "HOC",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xd22E78C22D7E77229d60cc9fC57b0E294F54488E.png"
+    },
+    {
+      "name": "Internet Money",
+      "address": "0xBBcF895BFCb57d0f457D050bb806d1499436c0CE",
+      "symbol": "IM",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xBBcF895BFCb57d0f457D050bb806d1499436c0CE.png"
+    },
+    {
+      "name": "Incentive",
+      "address": "0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d",
+      "symbol": "INC",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x2fa878Ab3F87CC1C9737Fc071108F904c0B0C95d.png"
+    },
+    {
+      "name": "T.I.M.E. Dividend",
+      "address": "0xCA35638A3fdDD02fEC597D8c1681198C06b23F58",
+      "symbol": "TIME",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58.png"
+    },
+    {
+      "name": "Liquity USD",
+      "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
+      "symbol": "pLUSD",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0.png"
+    },
+    {
+      "name": "Island xFARM",
+      "address": "0x0a33fBc6c25223DAB557A7CA14CDfE04F08d4C5b",
+      "symbol": "xFARM",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x0a33fBc6c25223DAB557A7CA14CDfE04F08d4C5b.png"
+    },
+    {
+      "name": "Island xISLAND",
+      "address": "0x0Af510B4435fEa36f3428fF4404B175e9F42aA35",
+      "symbol": "xISLAND",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x0Af510B4435fEa36f3428fF4404B175e9F42aA35.png"
+    },
+    {
+      "name": "Staked LUSD Stablecoin",
+      "address": "0xF2BcbE4a29cC9d485F3942b023fE8DB6c07b2aF0",
+      "symbol": "XpLUSD",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xF2BcbE4a29cC9d485F3942b023fE8DB6c07b2aF0.png"
+    },
+    {
+      "name": "Prime Ape Bananas",
+      "address": "0xC6B28B2E3Bf9fF26299D540a4D654F7ade4dFdB0",
+      "symbol": "Bananas",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xC6B28B2E3Bf9fF26299D540a4D654F7ade4dFdB0.png"
+    },
+    {
+      "name": "PrimeApe",
+      "address": "0x1Ce712b990F0Eb66e274057bea5365aCB597F038",
+      "symbol": "PrimeApe",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x1Ce712b990F0Eb66e274057bea5365aCB597F038.png"
+    },
+    {
+      "name": "Bananas R+",
+      "address": "0xD1fcD37A275Fd04197a40dBE481766a4e891C4C4",
+      "symbol": "R+",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xD1fcD37A275Fd04197a40dBE481766a4e891C4C4.png"
+    },
+    {
+      "name": "2PHUX Governance Token",
+      "address": "0x115f3fa979a936167f9d208a7b7c4d85081e84bd",
+      "symbol": "2PHUX",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x115f3fa979a936167f9d208a7b7c4d85081e84bd.png"
+    },
+    {
+      "name": "Camel Clan",
+      "address": "0xc1967c5a0cedc577d9017d2465bc0b0c55eafe49",
+      "symbol": "CAMEL",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xc1967c5a0cedc577d9017d2465bc0b0c55eafe49.png"
+    }
+  ]
+}
