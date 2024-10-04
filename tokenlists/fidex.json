@@ -190,14 +190,6 @@
       "logoURI": "https://dex.functionisland.com/images/tokens/0xCA35638A3fdDD02fEC597D8c1681198C06b23F58.png"
     },
     {
-      "name": "Liquity USD",
-      "address": "0x5f98805A4E8be255a32880FDeC7F6728C6568bA0",
-      "symbol": "pLUSD",
-      "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://dex.functionisland.com/images/tokens/0x5f98805A4E8be255a32880FDeC7F6728C6568bA0.png"
-    },
-    {
       "name": "Island xFARM",
       "address": "0x0a33fBc6c25223DAB557A7CA14CDfE04F08d4C5b",
       "symbol": "xFARM",
@@ -212,14 +204,6 @@
       "decimals": 18,
       "chainId": 369,
       "logoURI": "https://dex.functionisland.com/images/tokens/0x0Af510B4435fEa36f3428fF4404B175e9F42aA35.png"
-    },
-    {
-      "name": "Staked LUSD Stablecoin",
-      "address": "0xF2BcbE4a29cC9d485F3942b023fE8DB6c07b2aF0",
-      "symbol": "XpLUSD",
-      "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://dex.functionisland.com/images/tokens/0xF2BcbE4a29cC9d485F3942b023fE8DB6c07b2aF0.png"
     },
     {
       "name": "Prime Ape Bananas",
@@ -260,6 +244,110 @@
       "decimals": 18,
       "chainId": 369,
       "logoURI": "https://dex.functionisland.com/images/tokens/0xc1967c5a0cedc577d9017d2465bc0b0c55eafe49.png"
+    },
+    {
+      "name": "Scuba Steve",
+      "address": "0x5FE90464eD06B809D3f8888aD12e98346E409d4D",
+      "symbol": "$TEVE",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x5FE90464eD06B809D3f8888aD12e98346E409d4D.png"
+    },
+    {
+      "name": "NAZA",
+      "address": "0x93DB2097D10728549b370678337120790F5Ac75b",
+      "symbol": "NAZA",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x93DB2097D10728549b370678337120790F5Ac75b.png"
+    },
+    {
+      "name": "X",
+      "address": "0xA6C4790cc7Aa22CA27327Cb83276F2aBD687B55b",
+      "symbol": "X",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xA6C4790cc7Aa22CA27327Cb83276F2aBD687B55b.png"
+    },
+    {
+      "name": "Peanut Brain Unification Token",
+      "address": "0xD9e265B409BD8eb924cc97A0aA8C29765cf9E581",
+      "symbol": "PNUTBUT",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xD9e265B409BD8eb924cc97A0aA8C29765cf9E581.png"
+    },
+    {
+      "name": "HEX",
+      "address": "0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39",
+      "symbol": "HEX",
+      "decimals": 8,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x2b591e99afE9f32eAA6214f7B7629768c40Eeb39.png"
+    },
+    {
+      "name": "YEP",
+      "address": "0xE08FC6Ce880D36a1167701028c0ae84dc3e82b8f",
+      "symbol": "YEP",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xE08FC6Ce880D36a1167701028c0ae84dc3e82b8f.png"
+    },
+    {
+      "name": "My Portfolio",
+      "address": "0xD29582F42C6Aa7Bf4133F0CEda65de9c5fBEd338",
+      "symbol": "WRECKED",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xD29582F42C6Aa7Bf4133F0CEda65de9c5fBEd338.png"
+    },
+    {
+      "name": "Wrapped ETH from Ethereum",
+      "address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C.png"
+    },
+    {
+      "name": "Church of Chads",
+      "address": "0xf6aCb0AFD894dF043513A54b0b49ADd49FB9CeC3",
+      "symbol": "CHADS",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xf6aCb0AFD894dF043513A54b0b49ADd49FB9CeC3.png"
+    },
+    {
+      "name": "Staked T.I.M.E. Dividend",
+      "address": "0xc736d2A98111B1CB34c477e665740993b1d8E51E",
+      "symbol": "xTIME",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xc736d2A98111B1CB34c477e665740993b1d8E51E.png"
+    },
+    {
+      "name": "Low Energy Drink",
+      "address": "0xD1D5A10d702d98647C5F06ff057Bbea78818d27C",
+      "symbol": "SotaSoda",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xD1D5A10d702d98647C5F06ff057Bbea78818d27C.png"
+    },
+    {
+      "name": "BEAN by Barista",
+      "address": "0xd7407BD3E6aD1BAAE0ba9eaFD1Ec41bFE63907B2",
+      "symbol": "BEAN",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xd7407BD3E6aD1BAAE0ba9eaFD1Ec41bFE63907B2.png"
+    },
+    {
+      "name": "PulseX",
+      "address": "0x95B303987A60C71504D99Aa1b13B4DA07b0790ab",
+      "symbol": "PLSX",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0x95B303987A60C71504D99Aa1b13B4DA07b0790ab.png"
     }
   ]
 }
