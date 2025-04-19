@@ -1,0 +1,41 @@
+{
+  "name": "HelixSwap Tokens List",
+  "timestamp": "2025-04-01T00:00:01.982Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://functionisland.com/images/logo.png",
+  "keywords": [
+    "tokens",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "USDCoin",
+      "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+      "symbol": "USDC.e",
+      "decimals": 6,
+      "chainId": 146,
+      "logoURI": "https://swapx.fi/assets/usdc-0eeb3abc.png"
+    },
+    {
+      "name": "Bridged USDT",
+      "address": "0x6047828dc181963ba44974801FF68e538dA5eaF9",
+      "symbol": "USDT.e",
+      "decimals": 6,
+      "chainId": 146,
+      "logoURI": "https://swapx.fi/assets/usdt-c7cc043a.svg"
+    },
+    {
+      "name": "Wrapped S",
+      "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+      "symbol": "WS",
+      "decimals": 18,
+      "chainId": 146,
+      "logoURI": "https://dex.functionisland.com/images/tokens/sonic/0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38.png"
+    }
+  ]
+}
