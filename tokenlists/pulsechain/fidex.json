@@ -1,5 +1,5 @@
 {
-  "name": "Pulsechain Tokens List",
+  "name": "Function Island DEX Token List",
   "timestamp": "2024-01-01T00:00:01.982Z",
   "version": {
     "major": 2,
@@ -100,6 +100,14 @@
       "decimals": 18,
       "chainId": 369,
       "logoURI": "https://dex.functionisland.com/images/tokens/0x883bBad0cd22A7dD1881A63Cf00E3b8cb03E6836.png"
+    },
+    {
+      "name": "Volume.FI",
+      "address": "0xFD53c77D130f288da583A48040B30F5124764F9c",
+      "symbol": "VFI",
+      "decimals": 18,
+      "chainId": 369,
+      "logoURI": "https://dex.functionisland.com/images/tokens/0xFD53c77D130f288da583A48040B30F5124764F9c.png"
     },
     {
       "name": "Degen Protocol GOAT",
