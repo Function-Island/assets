@@ -102,14 +102,6 @@
       "logoURI": "https://dex.functionisland.com/images/tokens/0x883bBad0cd22A7dD1881A63Cf00E3b8cb03E6836.png"
     },
     {
-      "name": "Volume.FI",
-      "address": "0xFD53c77D130f288da583A48040B30F5124764F9c",
-      "symbol": "VFI",
-      "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://dex.functionisland.com/images/tokens/0xFD53c77D130f288da583A48040B30F5124764F9c.png"
-    },
-    {
       "name": "Degen Protocol GOAT",
       "address": "0xF5D0140B4d53c9476DC1488BC6d8597d7393f074",
       "symbol": "GOAT",
@@ -124,14 +116,6 @@
       "decimals": 18,
       "chainId": 369,
       "logoURI": "https://dex.functionisland.com/images/tokens/0x25B4163f23e1F546fE509D7cE955E8411c1bD330.png"
-    },
-    {
-      "name": "Drippy Inu",
-      "address": "0xD39Ad77ba6DbB8837F2AD75b2b66c6f3fEBfc20e",
-      "symbol": "DRPINU",
-      "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://dex.functionisland.com/images/tokens/0xD39Ad77ba6DbB8837F2AD75b2b66c6f3fEBfc20e.png"
     },
     {
       "name": "Pulsechain DAI",
@@ -262,14 +246,6 @@
       "logoURI": "https://dex.functionisland.com/images/tokens/0x5FE90464eD06B809D3f8888aD12e98346E409d4D.png"
     },
     {
-      "name": "NAZA",
-      "address": "0x93DB2097D10728549b370678337120790F5Ac75b",
-      "symbol": "NAZA",
-      "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://dex.functionisland.com/images/tokens/0x93DB2097D10728549b370678337120790F5Ac75b.png"
-    },
-    {
       "name": "X",
       "address": "0xA6C4790cc7Aa22CA27327Cb83276F2aBD687B55b",
       "symbol": "X",
@@ -302,28 +278,12 @@
       "logoURI": "https://dex.functionisland.com/images/tokens/0xE08FC6Ce880D36a1167701028c0ae84dc3e82b8f.png"
     },
     {
-      "name": "My Portfolio",
-      "address": "0xD29582F42C6Aa7Bf4133F0CEda65de9c5fBEd338",
-      "symbol": "WRECKED",
-      "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://dex.functionisland.com/images/tokens/0xD29582F42C6Aa7Bf4133F0CEda65de9c5fBEd338.png"
-    },
-    {
       "name": "Wrapped ETH from Ethereum",
       "address": "0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C",
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 369,
       "logoURI": "https://dex.functionisland.com/images/tokens/0x02DcdD04e3F455D838cd1249292C58f3B79e3C3C.png"
-    },
-    {
-      "name": "Church of Chads",
-      "address": "0xf6aCb0AFD894dF043513A54b0b49ADd49FB9CeC3",
-      "symbol": "CHADS",
-      "decimals": 18,
-      "chainId": 369,
-      "logoURI": "https://dex.functionisland.com/images/tokens/0xf6aCb0AFD894dF043513A54b0b49ADd49FB9CeC3.png"
     },
     {
       "name": "Staked T.I.M.E. Dividend",
